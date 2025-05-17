@@ -5,4 +5,4 @@ Type=Application
 Terminal=False
 Exec=vlc
 Name=FaceTime
-Icon=/home/lukas/.icons/custom/45_facetime.png
+Icon=/home/ibm-7094/.icons/custom/45_facetime.png
