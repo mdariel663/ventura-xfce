@@ -5,4 +5,4 @@ Type=Application
 Terminal=False
 Exec=firefox https://www.icloud.com/find
 Name=Find My
-Icon=/home/lukas/.icons/custom/38_findmy.png
+Icon=/home/ibm-7094/.icons/custom/38_findmy.png
