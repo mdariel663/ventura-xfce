@@ -5,4 +5,4 @@ Type=Application
 Terminal=False
 Exec=thunar
 Name=Finder
-Icon=/home/lukas/.icons/custom/37_finder.png
+Icon=/home/ibm-7094/.icons/custom/37_finder.png
